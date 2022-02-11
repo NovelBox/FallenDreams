@@ -2,41 +2,15 @@
 
 ## main
 
-::title = サンプルストーリー
+::title = 思い出の国のイブ
 ::flags = nospin
 
 [plot]
+汚染され外出が制限された世界。リモートで授業を受ける中学生の少女は将来についての作文に頭を悩ませている。ある日、こっそりと抜け出して見つけた廃墟の遊園地内で、他人の夢が詰まったガラス玉を発見した。
 
-テストプロット
+# 本文
 
-<boyandgirl>
-<confession>
+<ep1>
+<ep2>
+<ep3>
 
-## boyandgirl
-
-::title = 少年と少女
-::camera = taro
-::stage = Classroom
-::location = INT
-::year = 2021
-::date = 3/1
-::time = afternoon
-::outline = 二人の出会いについて
-
-[taro:be:考え事をして椅子に座る]
-
-[hana:come:慌てた様子で]
-
-[taro:talk]
-どうかした？
-
-[hana:talk]
-忘れ物しただけ
-
-## confession
-
-::title = 告白
-::outline = $taroは$hanaに告白した
-
-[hana:be:窓際に]
-[taro:come:走って]

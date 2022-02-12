@@ -1,15 +1,22 @@
 #!SMSdata
 book:
-  title: ストーリータイトル
-  copy: コピィ
-  theme: テーマ
-  genre: ジャンル
-  target: 対象
-  contests: コンテスト
-  caution: 注意書き
+  title: 思い出の国のイブ
+  copy: 思い出なんか、わたしにはなかった
+  theme: 廃墟と消えゆくもの、思い出
+  genre: ファンタジーSF
+  target: 10-30台男女
+  contests: 妄想コンテスト「降りつもる」
+  caution: コンテスト期間終了後に非公開になる
   sites:
-    - 小説家になろう
+    - エブリスタ
   tags:
-    - novel
-  version: "0.0.1"
+    - SF
+    - 日常
+    - 学生
+    - リモート
+    - 思い出
+    - 掲示板
+    - 写真
+    - 仮想世界
+  version: "1.0.0"
   note: 備考

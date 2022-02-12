@@ -4,3 +4,75 @@ rubi:
     name: 所為《せい》
     exclusions: []
     always: false
+  錆び:
+    name: 錆《さ》び
+    exclusions: []
+    always: false
+  剥げ:
+    name: 剥《は》げ
+    exclusions: []
+    always: false
+  大化沼遊楽園:
+    name: 大化沼遊楽園《おけぬまゆうらくえん》
+    exclusions: []
+    always: false
+  五十嵐夢月:
+    name: 五十嵐夢月《いがらしむつき》
+    exclusions: []
+    always: false
+  穢れ雪:
+    name: 穢《けが》れ雪《ゆき》
+    exclusions: []
+    always: false
+  抑揚:
+    name: 抑揚《よくよう》
+    exclusions: []
+    always: false
+  滑稽:
+    name: 滑稽《こっけい》
+    exclusions: []
+    always: false
+  漏ら:
+    name: 漏《も》ら
+    exclusions: []
+    always: false
+  懐古趣味:
+    name: 懐古趣味《かいこしゅみ》
+    exclusions: []
+    always: false
+  遭遇:
+    name: 遭遇《そうぐう》
+    exclusions: []
+    always: false
+  諍い:
+    name: 諍《いさか》い
+    exclusions: []
+    always: false
+  絨毯:
+    name: 絨毯《じゅうたん》
+    exclusions: []
+    always: false
+  訥々と:
+    name: 訥々《とつとつ》と
+    exclusions: []
+    always: false
+  蔦:
+    name: 蔦《つた》
+    exclusions: []
+    always: false
+  匿名:
+    name: 匿名《とくめい》
+    exclusions: []
+    always: false
+  闊歩:
+    name: 闊歩《かっぽ》
+    exclusions: []
+    always: false
+  銀杏:
+    name: 銀杏《いちょう》
+    exclusions: []
+    always: false
+  靄:
+    name: 靄《もや》
+    exclusions: []
+    always: false
